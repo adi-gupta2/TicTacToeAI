@@ -1,2 +1,2 @@
-Uses MinMax algorithm for playing tictactoe.
-Has 3 players namely: Human Player, Random computer player and MinMax Commputer player.
+There are 3 players: a human Player, a Random computer player, and a Smart Computer player.
+Uses MinMax algorithm for playing tic-tac-toe.
